@@ -5,5 +5,4 @@
 - :books: I am interested to expand my technical interests
 - :link: Know me more via [my LinkedIn profile](https://www.linkedin.com/in/dominic-arul-collins-v/)
 
-<h4>GitHub Profile - Overview</h4>
 
